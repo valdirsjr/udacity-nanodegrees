@@ -44,21 +44,97 @@ from very kind people who found the project useful and asked for them.
 * Bitcoin Wallet Address: 1375JTEBo1AFEsK2HUh17jth3KqPgJPSxC
 * PayPal/Credit/Debit: [https://www.paypal.me/mikesprague](https://www.paypal.me/mikesprague)
 
+#### (updated!) New Nanodegree courses found here: [https://br.udacity.com/data-science](https://br.udacity.com/data-science)
+
 ---
 
 ## Table of Contents
 
+* [Data Foundations Nanodegree](#data-foundations-nanodegree) (new!)
+* [Data Analyst Nanodegree](#data-analyst-nanodegree) (updated!)
+* [Data Science Foundations I Nanodegree](#data-science-foundations-i-nanodegree) (new!)
+* [Data Science Foundations II Nanodegree](#data-science-foundations-ii-nanodegree) (new!)
+* [Data Scientist Nanodegree](#data-scientist-nanodegree) (new!)
+* [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
 * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
 * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
 * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
-* [Data Analyst Nanodegree](#data-analyst-nanodegree)
-* [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
 * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree)
 * [Android Basics Nanodegree](#android-basics-nanodegree)
 * [Android Developer Nanodegree](#android-developer-nanodegree)
 * [iOS Developer Nanodegree](#ios-developer-nanodegree)
 * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
 * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+
+---
+
+### Data Foundations Nanodegree
+
+1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+1. [SQL to Data Analysis - Intro do Relational Databases ](https://br.udacity.com/course/intro-to-relational-databases--ud197)
+1. [SQL to Data Analysis - Database System Concepts](https://br.udacity.com/course/database-systems-concepts-design--ud150)
+1. [Data Visualization - Data Analysis and Visualization](https://br.udacity.com/course/data-analysis-and-visualization--ud404)
+1. [Data Visualization - Data Visualization in Tableau](https://br.udacity.com/course/data-visualization-in-tableau--ud1006)
+
+---
+
+### Data Analyst Nanodegree
+
+We built this program with expert analysts and scientists at leading technology
+companies to ensure you master the exact skills necessary to build a career in
+data science.
+
+Learn to clean up messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
+
+1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+1. [Problem Solving with Advanced Analytics](https://br.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+1. [Creating an Analytical Dataset](https://br.udacity.com/course/creating-an-analytical-dataset--ud977)
+1. [Data Analysis and Visualization](https://br.udacity.com/course/data-analysis-and-visualization--ud404)
+1. [Data Visualization in Tableau](https://br.udacity.com/course/data-visualization-in-tableau--ud1006)
+1. [Classification Models](https://br.udacity.com/course/classification-models--ud978)
+1. [Model Building and Validation](https://br.udacity.com/course/model-building-and-validation--ud919)
+1. [A/B Testing for Business Analytics](https://br.udacity.com/course/ab-testing--ud979)
+1. [A/B Testing](https://br.udacity.com/course/ab-testing--ud257)
+1. [Time Series Forecasting](https://br.udacity.com/course/time-series-forecasting--ud980)
+1. [Segmentation and Clustering](https://br.udacity.com/course/segmentation-and-clustering--ud981)
+
+---
+
+### Data Science Foundations I Nanodegree
+
+1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+1. [Introduction to Python](https://br.udacity.com/course/introduction-to-python--ud1110)
+1. [Programming Foundations with Python](https://br.udacity.com/course/programming-foundations-with-python--ud036)
+
+---
+
+### Data Science Foundations II Nanodegree
+
+1. [SQL to Data Analysis - Intro do Relational Databases ](https://br.udacity.com/course/intro-to-relational-databases--ud197)
+1. [SQL to Data Analysis - Database System Concepts](https://br.udacity.com/course/database-systems-concepts-design--ud150)
+1. [Intro to Statistics](https://br.udacity.com/course/intro-to-statistics--st101)
+1. [Statistics](https://br.udacity.com/course/statistics--st095)
+1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+1. [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+1. [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
+1. [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+1. [Intro to Data Science](https://br.udacity.com/course/intro-to-data-science--ud359)
+1. 
+
+---
+
+### Data Scientist Nanodegree
+
+1. [Intro to Hadoop and MapReduce](https://br.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+1. [CSE 8803: Big Data](https://br.udacity.com/course/cse-8803-special-topics-big-data--ud758)
+1. [Software Analysis](https://br.udacity.com/course/software-analysis-testing--ud333)
+1. [Version Control with Git](https://br.udacity.com/course/version-control-with-git--ud123)
+1. [How to use Git and Github](https://br.udacity.com/course/how-to-use-git-and-github--ud775)
+1. [Shell Workshop](https://br.udacity.com/course/shell-workshop--ud206)
+1. [Linux Command Line](https://br.udacity.com/course/linux-command-line-basics--ud595)
+1. [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
+1. [Machine Learning](https://br.udacity.com/course/machine-learning--ud262)
+1. [Reinforcement Learning](https://br.udacity.com/course/reinforcement-learning--ud600)
 
 ---
 
@@ -138,26 +214,6 @@ support hundreds of thousands of users.
 
 ---
 
-### Data Analyst Nanodegree
-
-We built this program with expert analysts and scientists at leading technology
-companies to ensure you master the exact skills necessary to build a career in
-data science.
-
-Learn to clean up messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
-
-1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-1. [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-1. [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
-1. [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
-1. [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-1. [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
-1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
-1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
-1. [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
-
----
 
 ### Machine Learning Engineer Nanodegree
 
